@@ -1,25 +1,25 @@
 {
     "format_version": 2,
-    "tooth": "my-mod",
-    "version": "0.0.0",
+    "tooth": "https://github.com/Tanya7z/Cooperative/",
+    "version": "1.5.0",
     "info": {
-        "name": "My Mod Name",
-        "description": "My Mod Description",
-        "author": "My Name",
+        "name": "Cooperative",
+        "description": "合作社",
+        "author": "Shiroha.7z",
         "tags": [
             "levilamina",
             "mod"
         ]
     },
-    "asset_url": "My Asset Url",
+    "asset_url": "Asset Url",
     "prerequisites": {
-        "github.com/LiteLDev/LeviLamina": "My LeviLamina Dependency Version"
+        "github.com/LiteLDev/LeviLamina": "0.13.x"
     },
     "files": {
         "place": [
             {
-                "src": "my-mod/*",
-                "dest": "plugins/my-mod/"
+                "src": "Cooperative/*",
+                "dest": "plugins/Cooperative/"
             }
         ]
     }
